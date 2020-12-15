@@ -1,5 +1,7 @@
 # Rick-and-Morty-Final-Project
 
+This project aimed to match each episode of Rick and Morty with a marijuana strain based on 300+ available strains from http://wikileaf.com and the magnitude of 6 emotions that they provoke, which is analyzed through Paralleldots API.
+
 Open Which_Episode_or_Which_Strain.ipynb to see the final matches.
 
 If you want to run the program yourself, please see requirements.txt and make sure that you have all the required libraries installed.
